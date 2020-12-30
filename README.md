@@ -40,6 +40,7 @@ To debug this example and step through the library code.
 * Created Automated Test
 * Select OS to use
 * Select `Appium server` as a framework (just a cover-all selection for custom test frameworks - does not use Appium)
+* Upload the zipfile created in Prepare stage, and a dummy apk/ipa (not used - BitBar will build from source) 
 * Select devices then run the tests (for iOS simulator test, use Android Monitoring Trial from first select dropdown)
 =======
 ## TODO: 
