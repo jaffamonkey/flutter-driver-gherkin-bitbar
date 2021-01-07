@@ -1,5 +1,7 @@
 # Running the example
 
+_Note: This is platform independent, and will run on Windows, MacOS and Linux with no additional configurations needed_
+
 To run this example:
 
 1. Ensure Android, Dart and Flutter SDK's installed and environment variables updated
